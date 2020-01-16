@@ -6,6 +6,7 @@ This repo contains the code for simulating and performing analysis of a swarm of
 ## Citation Information
 
 If you would like to use this code in your research, please use this citation:
+
 Hian Lee Kwa, Jabez Leong Kit, Roland Bouffanais. 2020. Optimal Swarm Strategy for Dynamic Target Search and Tracking. In Proc. of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS2020), Auckland, New Zealand, May 9–13, 2020, IFAAMAS, 9 pages.
 
 ## Usage
